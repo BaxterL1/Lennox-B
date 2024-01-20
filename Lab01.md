@@ -6,7 +6,7 @@
 ## Part 1 Answers
 
 1. mkdir DirA
-2.
+2.mkdir DIr B
 3.cd Dir B
 4.DirA because there is no space
 5.mv Dir B DirB
@@ -14,9 +14,8 @@
 ## Part 2 Answers
 
 1.touch test.txt
-2. File contents:
-vim test.txt
-```i
+2. File contents: vim test.txt
+i``
 hi
 hello
 world
@@ -39,5 +38,4 @@ world
 1. Command to clone your GitHub repository:
 
 ```
-git clone 
-```
+git clone git@github.com:BaxterL1/Lennox-B.git```
